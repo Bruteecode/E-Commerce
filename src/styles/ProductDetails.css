@@ -1,0 +1,11 @@
+.details {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+.details img {
+  height: 300px;
+}
+.details div {
+  max-width: 500px;
+}

@@ -1,0 +1,16 @@
+.cart {
+  padding: 20px;
+}
+.cart-item {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.cart-item img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
+input {
+  width: 50px;
+}
